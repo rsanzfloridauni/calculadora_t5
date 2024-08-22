@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for ejercicio calculadora ampliada - Tema 5
+name: CI/CD Pipeline for ejercicio calculadora ampliada del Tema 5
 
 on:
   push:
